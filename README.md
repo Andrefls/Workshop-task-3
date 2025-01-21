@@ -1,15 +1,16 @@
 link to website https://andrefls.github.io/Workshop-task-3/
 
 # Workshop-task-3
-the face scream, it also cries
 
-Synopsis
+*The face scream, it also cries*
+
+*Synopsis*
 
 - When I began working on this workshop task, my goal was to animate one of my drawings using pixels. I wanted to make the animation dynamic and represent something new.
 
 - Additionally, I aimed to make the project interactive. I believed that by allowing people to start the loop when they were ready, I could empower the audience to experience the art in the way that felt right for them.
 
-Summary/Problem-solving
+*Summary/Problem-solving*
 
 
 - I first watched our lecture video at
@@ -107,7 +108,7 @@ img3.pixels [newIndex + 2] = img3.pixels [index +2];```
 
 - As in my previous project, I realized I needed to instruct viewers on how to interact with my video. Therefore, I revisited my earlier sample, copied the function, and made some tweaks.
 
-Future development
+*Future development*
 
 - I am eager to learn about transformations for my final project. 
 
@@ -115,7 +116,7 @@ Future development
 
 - It would be wonderful to learn how to create slow-motion effects and also allow the audience to control the frame rate.
 
-Conclusion:
+*Conclusion*
 
 - Currently, I am using VSCodium. 
 
