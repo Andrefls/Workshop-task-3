@@ -40,7 +40,7 @@ Summary/Problem-solving
 
 - To build on this, I revisited my previous work and analyzed it to develop a new function. I followed the lecturer's tasks and tweaked them by adding a new index inside the function.
 
-
+```
 for (let y = 0; y < img3.height; y++){
 for (let x = 0; x < img3.width; x++){
 let index = (x + y * img3.width)*4;
@@ -54,8 +54,10 @@ mY= constrain (mY, 0, img3.height);
 let newIndex = (mX + mY * img3.width) * 4;
 img3.pixels [newIndex] = img3.pixels [index];
 img3.pixels [newIndex + 1] = img3.pixels [index+1];
-img3.pixels [newIndex + 2] = img3.pixels [index +2];'''
+img3.pixels [newIndex + 2] = img3.pixels [index +2];```
 
+
+```````
 - I have successfully made the pixels move, but now I need to conduct trials to modify the values and ensure everything works correctly. 
 
 - After some adjustments, the movement behaves as I intended. 
